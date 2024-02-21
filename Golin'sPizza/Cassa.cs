@@ -8,6 +8,6 @@ namespace Golin_sPizza
 {
     internal class Cassa
     {
-macre gay
+
     }
 }
